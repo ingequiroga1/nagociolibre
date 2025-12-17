@@ -19,11 +19,11 @@ export function TestimonialCard({ name, role, content, image, rating = 5 }: Test
       </div>
       <p className="mb-4 text-gray-700 italic">"{content}"</p>
       <div className="flex items-center gap-3">
-        <img 
+        {/* <img 
           src={image} 
           alt={name} 
           className="w-12 h-12 rounded-full object-cover"
-        />
+        /> */}
         <div>
           <p className="text-gray-900">{name}</p>
           <p className="text-sm text-gray-500">{role}</p>

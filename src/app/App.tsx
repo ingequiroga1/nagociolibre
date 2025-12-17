@@ -73,7 +73,7 @@ export default function App() {
                 <div className="relative z-10 transform hover:scale-105 transition-transform duration-300">
                   <div className="bg-white rounded-lg shadow-2xl p-3">
                     <ImageWithFallback
-                      src="https://images.unsplash.com/photo-1586898633445-fc34716255b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGVib29rJTIwbW9ja3VwfGVufDF8fHx8MTc2NTg0OTQ1MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                      src="/assets/guianegocio.png"
                       alt="Guía: Controla tu Negocio Desde Cualquier Lugar"
                       className="w-full h-auto rounded shadow-lg"
                     />
@@ -326,7 +326,7 @@ export default function App() {
             <div className="grid md:grid-cols-3 gap-8 p-8">
               <div className="md:col-span-1">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoYXBweSUyMGJ1c2luZXNzJTIwb3duZXJ8ZW58MXx8fHwxNzY1NzI5OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="/assets/equipo.png"
                   alt="Experto en negocios"
                   className="w-full h-auto rounded-lg"
                 />
@@ -349,11 +349,11 @@ export default function App() {
                 
                 <div className="grid grid-cols-3 gap-4 pt-6 border-t border-gray-200">
                   <div className="text-center">
-                    <p className="mb-1 text-gray-900">500+</p>
-                    <p className="text-sm text-gray-600">Empresas Asesoradas</p>
+                    <p className="mb-1 text-gray-900">100+</p>
+                    <p className="text-sm text-gray-600">Negocios Asesorados</p>
                   </div>
                   <div className="text-center">
-                    <p className="mb-1 text-gray-900">15+</p>
+                    <p className="mb-1 text-gray-900">10+</p>
                     <p className="text-sm text-gray-600">Años de Experiencia</p>
                   </div>
                   <div className="text-center">
